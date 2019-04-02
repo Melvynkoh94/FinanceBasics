@@ -20,7 +20,7 @@
   - Assets like stocks and bonds are very liquid since they can be converted to cash within days. 
   - However, large assets such as property, plant, and equipment are not as easily converted to cash. 
     -  ### Example
-    -     Your checking account is liquid, but if you owned land and needed to sell it, it may take weeks or months to liquidate it, making it less liquid.
+    -       Your checking account is liquid, but if you owned land and needed to sell it, it may take weeks or months to liquidate it, making it less liquid.
 
 * [Investopedia - Liquidity] - Understanding Financial Liquidity
 
@@ -41,7 +41,7 @@ extremely easy to convert to cash, they're often referred to as liquid assets.
   - Company stocks traded on the major exchanges are typically considered liquid.
 
 # Derivatives
- Basically there are a few common forms of derivatives:
+ A few common forms of derivatives:
   -  ### Futures
         -   It’s an agreement between parties to buy or sell an asset at a certain time in the future and at a certain price.
         -   Let’s say there is a Christmas sale on Xbox where it’s been sold for $300 instead of $600 and you want to buy the Xbox, the only problem being: you don’t have enough money to buy it right now but you don’t want to miss out of this opportunity.
@@ -76,6 +76,18 @@ extremely easy to convert to cash, they're often referred to as liquid assets.
     -  Calls give the buyer the right but not the obligation to buy a given quantity of the underlying asset (stock), at a given price on or before a given future date. 
     -  Puts give the buyer the right but not the obligation to sell a given quantity of the underlying asset at a given price on or before a given date
     -  Even options have lot size which was discussed in the Futures post. So when you say that you buy one option of Apple, it means you buy 100 shares of Apple where 100 is the lot size.
+  - ### Collateralized Debt Obligations (CDOs)
+    - A CDO is actually a form of insurance (offered by FIs like AIG)
+    - You bet on debt defaulters. 
+    -       If the borrower defaults, the investor that bought the CDO earns. If the borrower finished repayment or amortized the loan, the investor loses.
+    - A form of asset-backed debt security (ABS)
+    -  CDO is "sliced" into "tranches", which "catch" the cash flow of interest and principal payments in sequence based on seniority
+    -  Repackages this asset pool into discrete "tranches" that can be sold to investors
+    -  FIs like AIG re-package B, BB and BBB that couldn't sell, rated them as AAA ratings, and sell them to the market (a whole new thing)
+    - [CDOs] explained by Khan Academy
+  - ### Synthetic CDOs
+    - A CDO of a CDO
+    - A CDO that invests in credit default swaps (CDSs)
 
 
 # Some Definitions
@@ -87,12 +99,26 @@ extremely easy to convert to cash, they're often referred to as liquid assets.
     - Basically, it's a third-party agency or separate entity that acts as a go-between for buyers and sellers in the financial markets
   - ### Counterparty risk
     - the risk that the other party to the transaction will fail to perform
-    - Counterparty refers to the party on the opposite side of the transaction. So if you're the buyer, your counterparty is the seller. 
+    - Counterparty refers to the party on the opposite side of the transaction. So if you're the buyer, your counterparty is the seller.
+  - ### Tranches
+    - A French for "slices", widely used in CDOs, where a pool of assets are repackaged in a form of "tranches".
+  - ### Mutual Fund
+    -   A managed portfolio where managers choose securities expected to perform well and group them together into a single portfolio
+    -   Investors buy portion of this fund
+    -   Easy to purchase with minimal cash
+    -   Low-risk, low return 
+  - ### Hedge Fund 
+    - A much more aggressive approach as compared to Mutual Fund
+    - Usually bought by investors with high-net worth
+    -  Only available to accredited investors, who must meet a specific set of criteria to qualify
+    - 'Risky' funds...
+
 
 
 
 ## Important & Useful Resources 
 * [Derivatives] - Explain it to me like I am a 5 year old: Derivatives (Futures, Forwards, Swaps, Options)
+* [CDOs] - How CDOs can give different investors different levels of risk and returns with the same underlying assets. Created by Sal Khan.
 
 
 ### Plugins
@@ -110,6 +136,7 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
 
    [Derivatives]: <https://medium.com/@avs431/explain-it-to-me-like-i-am-a-5-year-old-derivatives-futures-forwards-swaps-options-1d19bf204253>
+   [CDOs]: <https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/cdo-tutorial/v/collateralized-debt-obligation-overview?utm_source=YT&utm_medium=Desc&utm_campaign=financeandcapitalmarkets>
  
 
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
