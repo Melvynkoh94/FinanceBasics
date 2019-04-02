@@ -78,6 +78,19 @@ extremely easy to convert to cash, they're often referred to as liquid assets.
     -  Even options have lot size which was discussed in the Futures post. So when you say that you buy one option of Apple, it means you buy 100 shares of Apple where 100 is the lot size.
 
 
+# Some Definitions
+  - ### Over-the-counter (OTC)
+    - Private negotiations of a contract 
+  - ### Clearinghouses
+    - Opposite of over-the-counter
+    - Trading or contract through an exchange basis, a more formal approach
+    - Basically, it's a third-party agency or separate entity that acts as a go-between for buyers and sellers in the financial markets
+  - ### Counterparty risk
+    - the risk that the other party to the transaction will fail to perform
+    - Counterparty refers to the party on the opposite side of the transaction. So if you're the buyer, your counterparty is the seller. 
+
+
+
 ## Important & Useful Resources 
 * [Derivatives] - Explain it to me like I am a 5 year old: Derivatives (Futures, Forwards, Swaps, Options)
 
