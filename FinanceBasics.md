@@ -8,9 +8,43 @@
   - The rich make their income from assets, not jobs
 ## Equities
   - Equity is the difference between the value of the assets and the value of the liabilities of something owned. 
-    -   ### Example     
+    ### Example     
     -     Someone owns a car worth $15,000, but owes $500 on a loan against the car, the represents $10,000 of equity
   - It can also be known as shares, equities as stocks,  shares in a company. If you buy stocks, you are buying equities.
+
+## Bear Market
+  - Any market in which prices exhibit a declining trend, for a prolonged period
+  - Usually falling by >20%. 
+  - Because a bear attacks by clawing down, this term is associated to falling market
+
+## Bull Market
+ - A period during which security prices in a particular market (such as the stock market) are generally rising. 
+ - Because a bull attacks by thrusting upward, this term is associated with a rising market
+
+## Blue Chip
+ - A blue chip is stock in a corporation with a national reputation for quality, reliability, and the ability to operate profitably in good times and bad.
+ - These companies are valued by investors seeking relative safety and stability
+
+## Capital Market
+ - A general term encompassing all markets for financial instruments with more than one year to maturity
+
+* [Investopedia - Liquidity] - Understanding Financial Liquidity
+
+## Clearing House
+ - A separate agency or corporation working with the commodity exchange to match up buy and sell orders. 
+ - The clearing house also ensures that financial statements are made independent of the exchange
+
+## Commodities
+ - Physical items such as oil, gold or grain that are traded on exchanges
+ - They are traded for spot (trade date + 2 business days) or future delivery
+ - Options also exist to buy and sell commodities
+
+## Custodian 
+ - A financial institution, usually a bank or trust company that holds a mutual fund’s securities and cash in safekeeping
+
+## Dividend
+ - A dividend is a payment made by a corporation to its shareholders, usually as a distribution of profits
+ - When a corporation earns a profit or surplus, the corporation is able to re-invest the profit in the business (called retained earnings) and pay a proportion of the profit as a dividend to shareholders
 
 ## Employee Stock Options
   - Employee offered the right to buy a specific number of shares of company stock, at a specified price called the grant price, within a specified number of years
@@ -19,10 +53,8 @@
   - Liquidity refers to how easily assets can be converted into cash. 
   - Assets like stocks and bonds are very liquid since they can be converted to cash within days. 
   - However, large assets such as property, plant, and equipment are not as easily converted to cash. 
-    -  ### Example
+    ### Example
     -       Your checking account is liquid, but if you owned land and needed to sell it, it may take weeks or months to liquidate it, making it less liquid.
-
-* [Investopedia - Liquidity] - Understanding Financial Liquidity
 
 
 >  Cash is the most liquid asset. However, some investments are easily 
@@ -112,13 +144,25 @@ extremely easy to convert to cash, they're often referred to as liquid assets.
     - Usually bought by investors with high-net worth
     -  Only available to accredited investors, who must meet a specific set of criteria to qualify
     - 'Risky' funds...
-
+  - ### Equities
+    - Securities representing ownership interest possessed by shareholders in a corporation – stock as opposed to bonds
+  - ### Equity 
+    -  The net worth of a company, it represents the ownership interest of the shareholders (common and preferred) of a company, for this reason, shares are often known as equities
+  - ### Derivatives
+    - An instrument derived from securities, currencies or commodities, or an index or indicator representing any of these, the price of which will move in a direct relationship to the price of the base instrument or index
+    - A contract that derives its value from the performance of an underlying entity
+    - This underlying entity can be an asset, index, or interest rate, and is often simply called the "underlying"
+  - ### LIBOR (London InterBank Offer Rate)
+    - LIBOR Rate is an interest-rate average calculated from estimates submitted by the leading banks in London
+    - Each bank estimates what it would be charged were it to borrow from other banks (interbanks) 
+    - The resulting rate is usually abbreviated to Libor or LIBOR, or more officially to ICE LIBOR
 
 
 
 ## Important & Useful Resources 
 * [Derivatives] - Explain it to me like I am a 5 year old: Derivatives (Futures, Forwards, Swaps, Options)
 * [CDOs] - How CDOs can give different investors different levels of risk and returns with the same underlying assets. Created by Sal Khan.
+* [LIBORs] - Pronounced as LAI-BOR. London InterBank Offer Rate (explained by Khan Academy)
 
 
 ### Plugins
@@ -137,6 +181,7 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
    [Derivatives]: <https://medium.com/@avs431/explain-it-to-me-like-i-am-a-5-year-old-derivatives-futures-forwards-swaps-options-1d19bf204253>
    [CDOs]: <https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/cdo-tutorial/v/collateralized-debt-obligation-overview?utm_source=YT&utm_medium=Desc&utm_campaign=financeandcapitalmarkets>
+   [LIBORs]: <https://www.youtube.com/watch?v=wBCowBiXV7A>
  
 
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
